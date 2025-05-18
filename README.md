@@ -1,6 +1,8 @@
 # AI in Chemical Engineering: Unlocking the Power Within Data
 This repository contains examples to accompany the book *AI in Chemical Engineering* by Jose A. Romagnoli, Luis Briceno-Mena, and Vidhyadar Manee.
 
+To use the examples in this repository, fork it or download the contents.
+
 ## Citation
 ```bibtex
 @book{romagnoli2024ai,
