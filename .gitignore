@@ -29,6 +29,11 @@ MANIFEST
 
 # laTEX build files
 slides/
+chapter-5.pdf
+chapter-8.pdf
+chapter-10.pdf
+chapter-12.pdf
+
 slides-pdf/
 
 # PyInstaller
