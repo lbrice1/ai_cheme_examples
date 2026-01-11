@@ -29,7 +29,12 @@ MANIFEST
 
 # laTEX build files
 slides/
-slides-pdf/
+chapter-5.pdf
+chapter-8.pdf
+chapter-10.pdf
+chapter-12.pdf
+
+#slides-pdf/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
