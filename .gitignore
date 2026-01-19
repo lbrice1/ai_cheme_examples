@@ -136,3 +136,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+nodes_difference.png
+projection_difference.png

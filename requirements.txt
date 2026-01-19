@@ -51,6 +51,7 @@ scikit-learn==1.6.1
 scipy==1.15.3
 six==1.17.0
 stack-data==0.6.3
+simpsom==2.0.2
 sympy==1.14.0
 threadpoolctl==3.6.0
 torch==2.7.0
