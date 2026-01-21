@@ -139,3 +139,5 @@ dmypy.json
 
 nodes_difference.png
 projection_difference.png
+
+.DS_Store
